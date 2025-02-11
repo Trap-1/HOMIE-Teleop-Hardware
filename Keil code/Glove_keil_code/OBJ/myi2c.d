@@ -1,0 +1,16 @@
+..\obj\myi2c.o: ..\HARDWARE\MyI2C\MyI2C.c
+..\obj\myi2c.o: ..\USER\stm32f10x.h
+..\obj\myi2c.o: ..\CORE\core_cm3.h
+..\obj\myi2c.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\myi2c.o: ..\USER\system_stm32f10x.h
+..\obj\myi2c.o: ..\USER\stm32f10x_conf.h
+..\obj\myi2c.o: ..\STM32F10x_FWLib\inc\stm32f10x_adc.h
+..\obj\myi2c.o: ..\USER\stm32f10x.h
+..\obj\myi2c.o: ..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h
+..\obj\myi2c.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\obj\myi2c.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\obj\myi2c.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\obj\myi2c.o: ..\STM32F10x_FWLib\inc\misc.h
+..\obj\myi2c.o: ..\SYSTEM\delay\Delay.h
+..\obj\myi2c.o: ..\SYSTEM\sys\sys.h
+..\obj\myi2c.o: ..\HARDWARE\MUP6050\MPU6050.h
