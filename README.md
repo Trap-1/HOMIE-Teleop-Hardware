@@ -1,1 +1,1 @@
-<center># HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit</center>
+# <center> HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit</center>
